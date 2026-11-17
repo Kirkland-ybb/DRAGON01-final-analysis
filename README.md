@@ -2,7 +2,7 @@
 
 # DRAGON-01: public survival analysis
 
-This is the public **survival-analysis subset** of the DRAGON-01 study. It supports KM reconstruction, candidate survival-model fitting, extrapolation, and Figures S2-S4. It is not the complete economic-evaluation package. The complete, self-contained analysis package is supplied separately for journal review; economic calculations, PSA draws and exact economic verification targets are not included here.
+This is the public **survival-analysis subset** of the DRAGON-01 study. It supports KM reconstruction, candidate survival-model fitting, extrapolation, and Figures S2-S4. It is not the complete economic-evaluation package. The complete analysis code is available from the corresponding author upon reasonable request. Economic calculations, PSA draws and exact economic verification targets are not included in this public subset.
 
 All supplied Python and R programs retain their original paths and bytes. Real survival inputs and adopted coefficients are supplied; this subset does not deliberately reduce numerical precision. Reconstructed endpoint-specific records are derived from published aggregate KM curves, not original patient-level data, and cannot be linked across OS and PFS.
 
